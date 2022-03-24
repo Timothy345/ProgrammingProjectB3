@@ -8,7 +8,7 @@ A description of the project.
 ![GamePlay](URL)
 
 ## GUI Mockup #3 (End Screen)
-![SEnd Screen] URL)
+![End Screen](URL)
 
 ## Class Diagram
 ![Diagram](URL)
